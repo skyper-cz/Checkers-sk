@@ -51,7 +51,7 @@ public class Gameplay {
                             System.out.println("nelze provést tento pohyb");
                         }
                     }
-                    else if ((pismeno == "R"){
+                    else if ((pismeno == "L"){
                     if (souradniceX > 8 || souradniceY > 8) {
                         System.out.println("nelze provést tento pohyb");
                     })
