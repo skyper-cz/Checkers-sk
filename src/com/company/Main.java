@@ -11,6 +11,8 @@ public class Main {
     public static int bily = 12;
     public static int cerny = 12;
     public static boolean Hra = true;
+    public static boolean prvniHrac = true;
+    public static boolean druhyHrac = true;
 
     public static void main(String[] args) {
         for (int x = 0; x < 8; x++){
